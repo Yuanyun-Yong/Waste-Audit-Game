@@ -32,6 +32,7 @@ Environments:
  - Park
  - Centre
  - etc.
+- Allow for customisation of the environment as well as providing some default settings
 
 Hazards:
 - Hazards may include chemicals/ dangerous trash
