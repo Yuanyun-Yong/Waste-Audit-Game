@@ -60,4 +60,13 @@ Points System:
   - Rip open the trash bags and pick out the items that spill out
    - Do NOT reach into the bag (-1 for each time you reach into the bag)
   - After sorting the trash, weigh each component and note the weights down
+
+Order:
+- Home page
+- Select the environment
+- Select gear
+- Start audit
+- Weigh the boxes
+- Take the weights down
+- End audit
 */
