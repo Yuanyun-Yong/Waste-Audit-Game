@@ -45,6 +45,7 @@ Hazard Management:
  Gameplay:
 - Arrows as controls/ WASD?
 - Space to pick up and drop off trash?
+  - Arrows left, right or centre (down) to choose which bin to put the trash in
 - Shift to start running (-5 if it is used - NEVER run at a waste audit)
 
 Points System:
